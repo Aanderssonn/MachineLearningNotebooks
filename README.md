@@ -3,5 +3,5 @@ A collection of jupyter notebooks, used for learning and implementing ML algorit
 
 ## Literature
 
-Raschka, Mirjalili -- Python Machine Learning
+Raschka, Mirjalili - Python Machine Learning
 
