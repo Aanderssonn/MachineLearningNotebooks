@@ -1,5 +1,5 @@
 # Machine Learning Notebooks
-A collection of jupyter notebooks, used for learning and implementing ML algorithms.
+A collection of jupyter notebooks, used for learning and implementing ML algorithms. Most of the notes can be regarded as notes from the literature rather than original work.
 
 ### Artificial Neurons
 In this notebook, I implement a __Perception__ learning algorithm and discuss its limitations. As a natural extension I implement __Adaptive Linear Neurons__ and __Stochastic Gradient Descent__. This is a _"from scratch"_ implementation, using only numpy and native Python.
@@ -15,10 +15,10 @@ In this notebook, some of the most popular supervised learning algorithms for cl
 
 
 ## Python Modules/Dependencies
-* numpy
 * matplotlib
-* scikitlearn
+* numpy
 * pandas
+* scikitlearn
 * ...
 
 
