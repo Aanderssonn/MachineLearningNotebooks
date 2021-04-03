@@ -14,6 +14,13 @@ In this notebook, some of the most popular supervised learning algorithms for cl
 * Random forests
 * K nearest neighbors
 
+### Data Preprocessing
+In this notebook I discuss different preprocessing techniques to facilitate good data to machine learning models. Topics will include:
+
+* Removing and imputing missing values from the dataset
+* Getting categorical data into shape for ML algorithms
+* Selecting relevant features for the model construction
+
 
 ## Python Modules/Dependencies
 * matplotlib
