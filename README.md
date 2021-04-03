@@ -13,6 +13,15 @@ In this notebook, some of the most popular supervised learning algorithms for cl
 * Decision trees
 * Random forests
 
+
+## Python Modules
+* numpy
+* matplotlib
+* scikitlearn
+* pandas
+* ...
+
+
 ## Literature
 
 S. Raschka, V. Mirjalili - Python Machine Learning
