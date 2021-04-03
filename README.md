@@ -12,6 +12,7 @@ In this notebook, some of the most popular supervised learning algorithms for cl
 * Support vector machines (with and withouth kernel tricks)
 * Decision trees
 * Random forests
+* K nearest neighbors
 
 
 ## Python Modules/Dependencies
