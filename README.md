@@ -14,7 +14,7 @@ In this notebook, some of the most popular supervised learning algorithms for cl
 * Random forests
 
 
-## Python Modules
+## Python Modules/Dependencies
 * numpy
 * matplotlib
 * scikitlearn
