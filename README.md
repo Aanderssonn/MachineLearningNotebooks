@@ -11,6 +11,7 @@ In this notebook, some of the most popular supervised learning algorithms for cl
 * Logistic regression
 * Support vector machines (with and withouth kernel tricks)
 * Decision trees
+* Random forests
 
 ## Literature
 
