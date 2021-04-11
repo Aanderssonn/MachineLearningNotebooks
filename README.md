@@ -1,6 +1,7 @@
 # Machine Learning Notebooks
-A collection of jupyter notebooks, used for learning and implementing ML algorithms. Most of the notes can be regarded as notes from the literature rather than original work.
+A collection of jupyter notebooks, used for learning and implementing ML algorithms. Most of the notes can be regarded as notes from the literature and tutorials rather than my own original work.
 
+## Basics
 ### Artificial Neurons
 In this notebook, I implement a __Perception__ learning algorithm and discuss its limitations. As a natural extension I implement __Adaptive Linear Neurons__ and __Stochastic Gradient Descent__. This is a _"from scratch"_ implementation, using only numpy and native Python.
 
@@ -22,15 +23,23 @@ In this notebook I discuss different preprocessing techniques to facilitate good
 * Selecting relevant features for the model construction
 
 
+
+
+## More advanced 
+### Convolutional Neural Network
+In this notebook, I build a simple convolutional neural network based on a Tensorflow Tutorial. The network uses a stack of 2D convolutional and max pooling layers, combined with a few dense layers for the classification. 
+
 ## Python Modules/Dependencies
+* jupyter
 * matplotlib
 * numpy
 * pandas
 * scikitlearn
+* tensorflow
 * ...
-
 
 ## Literature
 
-S. Raschka, V. Mirjalili - Python Machine Learning
+* S. Raschka, V. Mirjalili - Python Machine Learning
+* https://www.tensorflow.org/tutorials
 
