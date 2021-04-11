@@ -27,7 +27,7 @@ In this notebook I discuss different preprocessing techniques to facilitate good
 
 ## More advanced 
 ### Tensorflow 2 CNN Tutorial
-In this notebook, I build a simple convolutional neural network based on a Tensorflow Tutorial. The network uses a stack of 2D convolutional and max pooling layers, combined with a few dense layers for the classification. 
+In this notebook, I build a simple convolutional neural network based on a Tensorflow Tutorial. The network uses a stack of 2D convolutional and max pooling layers, combined with a few dense layers for the classification. The model is trained and verified using the CIFAR10 dataset (https://www.cs.toronto.edu/~kriz/cifar.html). 
 
 ## Python Modules/Dependencies
 * jupyter
