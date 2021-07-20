@@ -29,7 +29,7 @@ In this notebook I discuss different preprocessing techniques to facilitate good
 ### Tensorflow 2 CNN Tutorial
 In this notebook, I build a simple convolutional neural network based on a Tensorflow Tutorial. The network uses a stack of 2D convolutional and max pooling layers, combined with a few dense layers for the classification. The model is trained and verified using the CIFAR10 dataset (https://www.cs.toronto.edu/~kriz/cifar.html).
 
-### Tensorflow 2 Object Detection tutorial
+### Tensorflow 2 Object Classification tutorial
 In this notebook, I build models to classify 5 different species of flowers based on a Tensorflow Tutorial. In order to avoid overfitting, I implement data augmentation, and dropout layers. 
 
 ## Python Modules/Dependencies
