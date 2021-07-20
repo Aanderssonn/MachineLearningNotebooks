@@ -1,5 +1,5 @@
 # Machine Learning Notebooks
-A collection of jupyter notebooks, used for learning and implementing ML algorithms. Most of the notes can be regarded as notes from the literature and tutorials rather than my own original work.
+A collection of jupyter notebooks, used for learning and implementing ML algorithms. __Most of the notes can be regarded as notes from the literature and tutorials rather than my own original work.__
 
 ## Basics
 ### Artificial Neurons
@@ -31,6 +31,9 @@ In this notebook, I build a simple convolutional neural network based on a Tenso
 
 ### Tensorflow 2 Object Classification tutorial
 In this notebook, I build models to classify 5 different species of flowers based on a Tensorflow Tutorial. In order to avoid overfitting, I implement data augmentation, and dropout layers. 
+
+### Tensorflow 2 Transfer Learning tutorial
+In this notebook, I use transfer learning for a cats vs dogs classifier. 
 
 ## Python Modules/Dependencies
 * jupyter
