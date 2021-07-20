@@ -20,7 +20,6 @@ In this notebook I discuss different preprocessing techniques to facilitate good
 
 * Removing and imputing missing values from the dataset
 * Getting categorical data into shape for ML algorithms
-* Selecting relevant features for the model construction
 
 
 
