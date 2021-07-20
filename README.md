@@ -1,5 +1,5 @@
 # Machine Learning Notebooks
-A collection of jupyter notebooks, used for learning and implementing ML algorithms. __Most of the notes can be regarded as notes from the literature and tutorials rather than my own original work.__
+A collection of jupyter notebooks, used for learning and implementing ML algorithms. __Most of these notebooks can be regarded as notes from the literature and tutorials rather than my own original work.__
 
 ## Basics
 ### Artificial Neurons
